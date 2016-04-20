@@ -9,9 +9,9 @@
 	
 	<name>Datos del Dsipositivo</name>
 	
-	<descripcion>
+	<description>
 	    Aplicacion que muestra datos del Dispositivo
-	</descripcion>
+	</description>
 	
 	<preference name="phonegap-version" value="3.1.0"/>
 	
